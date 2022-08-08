@@ -6,6 +6,12 @@
     border: none;
 }
 
+/* Body */
+
+body {
+    font-family: 'valera round', sans-serif;
+}
+
 /* Heading and logo */
 
 .header {
@@ -56,8 +62,30 @@ h1, h2 {
     border-bottom: 1px solid white;
 }
 
-/* Body */
+/* Hero image */
 
-body {
-    font-family: 'valera round', sans-serif;
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-photo-9072216.webp);
+    background-size: cover;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes hero-zoom {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
 }
