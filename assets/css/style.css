@@ -8,15 +8,21 @@
 
 /* Heading and logo */
 
+.header {
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
 h1, h2 {
     font-family: bahianita, sans-serif;
     letter-spacing: 2px;
-    color: blue;
+    color: #00C9F6;
 }
 
 #logo {
     float: left;
     font-size: 280%;
+    margin-left: 20px;
 }
 
 /* Nav links */
@@ -24,6 +30,7 @@ h1, h2 {
 #menu {
     font-size: 110%;
     letter-spacing: 2px;
+    color: white;
 }
 
 #menu, #logo {
@@ -42,11 +49,11 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid white;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid white;
 }
 
 /* Body */
