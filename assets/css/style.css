@@ -253,3 +253,73 @@ h1 {
     font-size: 120%;
     font-weight: 300;
 }
+
+/* Events */
+
+#event-box {
+    height: 300px;
+    width: 90%;
+    /* border: 1px #00C9F6 solid; */
+    /* border-radius: 25px; */
+    margin: auto;
+    margin-top: 30px;
+    /* z-index: 3;  */
+    /* background-color: rgba(255, 255, 255, 0.3); */
+} 
+
+#event {
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 50px 0 0 10px;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 500;
+    color:white;
+    box-sizing: border-box;
+}
+
+.event-one {
+    background-image: url(../images/wp2619610-counter-strike-16-hd-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.event-two {
+    background-image: url(../images/uwp2027262.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.event-three {
+    background: url(../images/wp5936642-warzone-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.event-four {
+    background-image: url(../images/uwp1639915.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+.event-five {
+    background-image: url(../images/628496.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
