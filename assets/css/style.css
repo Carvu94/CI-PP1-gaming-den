@@ -345,6 +345,21 @@ footer {
     text-align: center;
 }
 
-.social-networks > p{
+.social-networks i {
+    font-size: 150%;
+    padding: 2% 5% 1% 5%;
+    color: white;
+}
 
+.social-networks > li {
+    display: inline;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.contact-info > li {
+    color: white;
+    padding-top: 5px;
 }
