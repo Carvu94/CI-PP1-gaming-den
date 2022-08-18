@@ -119,6 +119,7 @@ h1 {
 }
 
 #about-us h2 {
+    font-family: bahianita, sans-serif;
     color: #00C9F6;
 }
 
@@ -284,6 +285,8 @@ h1 {
 }
 
 #event h2 {
+    font-family: bahianita, sans-serif;
+    font-size: 250%;
     color: #00C9F6;
 }
 
