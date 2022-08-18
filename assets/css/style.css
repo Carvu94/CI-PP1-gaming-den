@@ -331,3 +331,17 @@ h1 {
     width: 100%;
     overflow: hidden;
 }
+
+/* Footer */
+
+footer {
+    height: 150px;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > p{
+    
+}
