@@ -339,7 +339,7 @@ h1 {
 /* Footer */
 
 footer {
-    height: 150px;
+    height: 100px;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.8);
     position: fixed;
@@ -371,3 +371,6 @@ footer {
     padding-top: 5px;
 }
 
+.contact-info > span {
+    padding-left: 30px;
+}
