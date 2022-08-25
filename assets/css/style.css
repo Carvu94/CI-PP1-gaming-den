@@ -234,10 +234,11 @@ h1 {
 
 /* Events */
 
-.events-title {
+.title {
     margin-bottom: 30px;
     font-family: bahianita, sans-serif;
-    font-size: 250%;
+    font-size: 300%;
+    font-weight: 300;
     text-align: center;
     color: #00C9F6;
 }
