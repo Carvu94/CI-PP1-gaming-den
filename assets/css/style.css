@@ -103,7 +103,7 @@ h1 {
     font-weight: 300;
 }
 
-#box {
+.box {
     height: 100%;
     max-width: 90%;
     border: 1px #00C9F6 solid;
@@ -439,6 +439,12 @@ footer {
     .center-picture-bg:hover {
         transform: scale(1.15);
     }
+}
 
+/* For small screens from 800px wide and down */
     
+@media screen and (max-width: 800px) {
+    #photos {
+        column-count: 2;
+    }
 }
