@@ -262,7 +262,7 @@ h1 {
     border: 2px solid black;
 }
 
-#event h2 {
+.event h2 {
     font-family: bahianita, sans-serif;
     font-size: 200%;
     color: #00C9F6;
@@ -366,6 +366,10 @@ footer {
         width: 100%;
         clear: both;
     }
+
+    .info {
+        margin-bottom: 20px;
+    }
 }
 
 /* For large screen above 1200px wide */
@@ -382,7 +386,7 @@ footer {
 
     #top-info-text {
         text-align: center;
-        margin: 100px 50px 217px 50px;
+        margin: 100px 50px 217px 700px;
     }
    
     #center-picture-container {
@@ -396,7 +400,7 @@ footer {
 
     #center-info-text {
         text-align: center;
-        margin: 0 50px 217px 50px;
+        margin: 0 700px 217px 50px;
         padding-top: 150px;
     }
     
@@ -411,8 +415,8 @@ footer {
 
     #bottom-info-text {
         text-align: center;
-        margin: 100px 50px 217px 50px;
-        padding-top: 150px;
+        margin: 100px 50px 217px 700px;
+        padding-top: 120px;
     }
 
     .top-picture-bg:hover {
