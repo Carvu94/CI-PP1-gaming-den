@@ -370,6 +370,29 @@ footer {
     margin-bottom: 5px;
 }
 
+/* Join us */
+
+ .join-us {
+    align-items: center;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#form p {
+    text-align: center;
+}
+
+.age {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+label {
+    padding-right: 20px;
+}
+
 /* Media queries */
 
 /* For lager to medium screen 1200px wide and down */
