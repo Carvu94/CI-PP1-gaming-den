@@ -393,7 +393,7 @@ label {
     padding-right: 20px;
 }
 
-input[type=text], input[type=email], textarea, input[type=radio], select {
+input[type=text], input[type=email], textarea, select {
     background-color: #808782;
     color: white;
     text-align: center;
@@ -419,6 +419,10 @@ input[type=reset] {
     border-radius: 4px;
 }
 
+.age label {
+    padding-left: 1%;
+}
+
 /* Media queries */
 
 /* For lager to medium screen 1200px wide and down */
@@ -432,6 +436,7 @@ input[type=reset] {
     .info {
         margin-bottom: 20px;
     }
+
 }
 
 /* For large screen above 1200px wide */
@@ -487,6 +492,16 @@ input[type=reset] {
 
     .center-picture-bg:hover {
         transform: scale(1.15);
+    }
+
+    /* Join Us */
+
+    #form {
+        font-size: 150%;
+    }
+
+    input[type=text], input[type=email], select {
+        height: 30px;
     }
 }
 
