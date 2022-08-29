@@ -511,4 +511,15 @@ input[type=reset] {
     #photos {
         column-count: 2;
     }
+
+    nav {
+        float: left;
+        list-style-type: none;
+        margin-left: 20px;
+    }
+
+    #logo {
+        height: 50px;
+    }
+    
 }
