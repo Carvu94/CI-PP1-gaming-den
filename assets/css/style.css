@@ -522,4 +522,16 @@ input[type=reset] {
         height: 50px;
     }
     
+    footer {
+        font-size: smaller;
+    }
+
+    .contact-info {
+        display: grid;
+        padding-top: 10px;
+    }
+
+    .made-by {
+        padding: 10px 10px 0 10px;
+    }
 }
