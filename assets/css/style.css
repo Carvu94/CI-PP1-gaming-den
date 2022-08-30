@@ -541,6 +541,20 @@ input[type=reset] {
     input[type=text], input[type=email], select {
         height: 30px;
     }
+
+    /* Thank you page */
+
+    .thanks-box {
+        width: 70%;
+    }
+
+    .thanks-box h2 {
+        font-size: 300%;
+    }
+
+    .thanks-box h3 {
+        font-size: 200%;
+    }
 }
 
 /* For small screens from 800px wide and down */
