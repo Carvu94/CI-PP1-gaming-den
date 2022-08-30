@@ -429,6 +429,38 @@ input[type=reset] {
     padding-left: 1%;
 }
 
+/* Thank you page */
+
+.thanks-box {
+    text-align: center;
+    align-items: center;
+    background-image: url(/assets/images/controller.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
+.thanks-box h2 {
+    color: #00C9F6;
+    font-size: 250%;
+    padding-top: 30px;
+    font-weight: 100;
+}
+
+.thanks-title {
+    border-bottom: 1px solid #00C9F6;
+    width: 90%;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+.thanks-box h3 {
+    font-size: 150%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 100;
+}
+
 /* Media queries */
 
 /* For lager to medium screen 1200px wide and down */
