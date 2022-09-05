@@ -362,7 +362,7 @@ footer {
     line-height: 0;
     column-count: 3;
     column-gap: 5px;
-    margin: 0 50px 0 50px;
+    margin: 75px 50px 0 50px;
 }
 
 #photos img {
@@ -568,6 +568,7 @@ input[type=reset] {
     
     /* Gallery */
     #photos {
+        margin: 75px 10px 0 10px;
         column-count: 2;
     }
 
@@ -582,6 +583,7 @@ input[type=reset] {
         height: 50px;
     }
     
+    /* Nav Bar */
     #menu {
         font-size: small;
     }
@@ -598,5 +600,11 @@ input[type=reset] {
 
     .made-by {
         padding: 10px 10px 0 10px;
+    }
+}
+
+@media screen and (max-width: 434px) {
+    #photos {
+        margin-top: 125px;
     }
 }
