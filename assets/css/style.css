@@ -560,6 +560,13 @@ input[type=reset] {
 /* For small screens from 800px wide and down */
     
 @media screen and (max-width: 800px) {
+    
+    /* Hero image */
+    #hero-outer {
+        height: 400px;
+    }
+    
+    /* Gallery */
     #photos {
         column-count: 2;
     }
@@ -575,6 +582,10 @@ input[type=reset] {
         height: 50px;
     }
     
+    #menu {
+        font-size: small;
+    }
+
     /* Footer */
     footer {
         font-size: smaller;
