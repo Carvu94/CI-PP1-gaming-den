@@ -1,7 +1,10 @@
 # **Gaming Den Website**
 Gaming Den website is a Dublin based gaming community website which is designed responsive to allow viewing on a range of devices. It allows visitors to find out about Gaming Den, register and join events. 
 
----
+![Gaming Den Website](/docs/gaming-den-website.png)
+
+[View Gaming Den on GitHub Pages](https://carvu94.github.io/CI-PP1-gaming-den/)
+
 
 # **User Experience (UX)**
 
@@ -47,7 +50,6 @@ All images used were taken from free sources which is credited in the credits se
 
 ## **Wireframes**
 
----
 
 # **Features**
 
@@ -55,7 +57,59 @@ All images used were taken from free sources which is credited in the credits se
 
 - Interactive elements.
 
----
+## **Existing Features**
+
+- Navigation Bar
+
+    - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Join Us page and is identical in each page to allow for easy navigation.
+
+    - This section will allow users to easily navigate from page to page across all devices. 
+
+    - Navigation bar will always stay on top of the screen when scrolling to allow easy access to other pages. 
+
+- Hero Image
+
+    - The Hero Image introduces Gaming Den to users with zoom animation. 
+
+    - The Hero Image can be seen on Home, Join Us and Thank You page. 
+
+- About Us Section
+
+    - The About Us section will briefly introduce users to what to expect of Gaming Den and the goals. 
+
+    - Pictures in About Us section have an eye catching transform effect on hover or tap on mobile devices. 
+
+- Events Section
+
+    - This section will allow users to see upcoming events, where they will be located and on which platform. 
+
+    - This section will be updated as events change to keep users up to date. 
+
+- The Footer
+
+    - The footer includes links to social media sites for Gaming Den. The links will open to a new tab to allow easy navigation for the users. 
+
+    - The footer also includes address, phone number and email address for Gaming Den to offer more ways of contacting the organization. 
+
+- Gallery 
+
+    - The gallery will provide users with images from previous events and meet ups to get better idea of how they look like. 
+
+- The Join Us Page 
+
+    - The Join Us page will allow users to join the organization and register for an event. 
+
+    - The form contains fields for users first name, last name, email address, radio button for age range, drop down list for events and a text area to leave a message. 
+
+    - Users submit the form using the submit button or reset the form using reset form button. 
+
+    - Users must fill in the first name, last name, email address fields and pick a age range to be able to submit the form. If they do not, a tooltip will guide them to fill in any information they missed. 
+
+- Thank You Page
+
+    - A message thanks the user for submitting the form and lets them know they will receive a confirmation email. 
+
+    - Thank You page also contains a navigation bar so users can easily navigate back to desired page. 
 
 # **Technologies Used**
 
@@ -88,7 +142,6 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 [Am I Responsive?](https://ui.dev/amiresponsive) - To show the website image on a range of devices. 
 
----
 
 # **Testing**
 
@@ -146,12 +199,7 @@ Testing was ongoing throughout entire build of project. I used Developer Tools w
 
     - The users would already be comfortable with the website layout and navigate to Gallery page. 
 
-
-## **Solved Bugs**
-
 ## **Known Bugs**
-
----
 
 # **Deployment**
 
@@ -199,8 +247,6 @@ To clone the CI-PP1-gaming-den repository:
 4. Type 'git clone' into the terminal and then paste the link you copied in step 3. 
 
 5. Press 'Enter'. 
-
----
 
 # **Credits**
 
