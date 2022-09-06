@@ -67,11 +67,15 @@ All images used were taken from free sources which is credited in the credits se
 
     - Navigation bar will always stay on top of the screen when scrolling to allow easy access to other pages. 
 
+![Navigation Bar](/docs/navbar.png)
+
 - Hero Image
 
     - The Hero Image introduces Gaming Den to users with zoom animation. 
 
     - The Hero Image can be seen on Home, Join Us and Thank You page. 
+
+![Hero Image](/docs/hero-image.png)
 
 - About Us Section
 
@@ -79,11 +83,15 @@ All images used were taken from free sources which is credited in the credits se
 
     - Pictures in About Us section have an eye catching transform effect on hover or tap on mobile devices. 
 
+
+
 - Events Section
 
     - This section will allow users to see upcoming events, where they will be located and on which platform. 
 
     - This section will be updated as events change to keep users up to date. 
+
+![Events](/docs/events.png)
 
 - The Footer
 
@@ -91,9 +99,13 @@ All images used were taken from free sources which is credited in the credits se
 
     - The footer also includes address, phone number and email address for Gaming Den to offer more ways of contacting the organization. 
 
+![Footer](/docs/footer.png)
+
 - Gallery 
 
     - The gallery will provide users with images from previous events and meet ups to get better idea of how they look like. 
+
+![Gallery](/docs/gallery.png)
 
 - The Join Us Page 
 
@@ -105,11 +117,15 @@ All images used were taken from free sources which is credited in the credits se
 
     - Users must fill in the first name, last name, email address fields and pick a age range to be able to submit the form. If they do not, a tooltip will guide them to fill in any information they missed. 
 
+![Join Us](/docs/join-us.png)
+
 - Thank You Page
 
     - A message thanks the user for submitting the form and lets them know they will receive a confirmation email. 
 
     - Thank You page also contains a navigation bar so users can easily navigate back to desired page. 
+
+![Thank You](/docs/thank-you.png)
 
 # **Technologies Used**
 
