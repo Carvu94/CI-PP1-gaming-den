@@ -50,6 +50,17 @@ All images used were taken from free sources which is credited in the credits se
 
 ## **Wireframes**
 
+### **Mobile**
+
+![Mobile](/docs/mobile.png)
+
+### **Tablet**
+
+![Tablet](/docs/tablet.png)
+
+### **Desktop**
+
+![Desktop](/docs/desktop.png)
 
 # **Features**
 
@@ -95,9 +106,11 @@ All images used were taken from free sources which is credited in the credits se
 
 - The Footer
 
-    - The footer includes links to social media sites for Gaming Den. The links will open to a new tab to allow easy navigation for the users. 
+    - The Footer includes links to social media sites for Gaming Den. The links will open to a new tab to allow easy navigation for the users. 
 
-    - The footer also includes address, phone number and email address for Gaming Den to offer more ways of contacting the organization. 
+    - The Footer also includes address, phone number and email address for Gaming Den to offer more ways of contacting the organization. 
+
+    - The bottom of the Footer also contains information about developer
 
 ![Footer](/docs/footer.png)
 
@@ -267,6 +280,16 @@ To clone the CI-PP1-gaming-den repository:
 # **Credits**
 
 ## **Code**
+
+For inspiration and help with figuring out the code I used following resources
+
+[w3schools](https://www.w3schools.com/)
+
+[Stack Overflow](https://stackoverflow.com/)
+
+[MDN](https://developer.mozilla.org/en-US/)
+
+Love Running Code Institute Project
 
 
 ## **Content**
