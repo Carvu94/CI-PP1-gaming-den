@@ -88,6 +88,7 @@ h1 {
     animation-fill-mode: forwards;
 }
 
+/* Hero image zoom effect */
 @keyframes hero-zoom {
     from{
         transform: scale(1);
@@ -128,9 +129,9 @@ h1 {
     text-align: center;
     color: #00C9F6;}
 
+/* Top info */
 #top-info {
     padding-top: 30px;
-    /* vertical-align: top; */
 }
 
 #top-info-text {
@@ -161,6 +162,7 @@ h1 {
     transform: scale(1.3);
 }
 
+/* Center info */
 #center-info {
     text-align: center;
 }
@@ -189,6 +191,7 @@ h1 {
     transform: scale(1.3);
 }
 
+/* Bottom info */
 #bottom-info-text {
     text-align: center;
 }
@@ -217,6 +220,7 @@ h1 {
     transform: scale(1.3);
 }
 
+/* Other */
 #top-info-text, #center-info-text, #bottom-info-text {
     padding-top: 20px;
 }
