@@ -94,7 +94,9 @@ All images used were taken from free sources which is credited in the credits se
 
     - Pictures in About Us section have an eye catching transform effect on hover or tap on mobile devices. 
 
-
+![About Us](/docs/about-us.png)
+![About Us](/docs/about-us2.png)
+![About Us](/docs/about-us3.png)
 
 - Events Section
 
