@@ -165,6 +165,8 @@ Git - for version control.
 
 Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
+[Ezgif](https://ezgif.com/) - To convert images to webp
+
 [Tiny PNG](https://tinypng.com/) - To compress images.
 
 [PicResize](https://picresize.com/) - To rezise images.
