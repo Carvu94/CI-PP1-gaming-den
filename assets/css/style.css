@@ -438,7 +438,7 @@ input[type=reset] {
 .thanks-box {
     text-align: center;
     align-items: center;
-    background-image: url(/assets/images/controller.jpg);
+    background-image: url(../images/controller.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
