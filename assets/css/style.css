@@ -80,7 +80,7 @@ h1 {
 #hero-image {
     height: 600px;
     max-width: 100%;
-    background: url(../images/pexels-photo-9072216.webp);
+    background: url(../images/hero.jpg);
     background-size: cover;
 
     animation-name: hero-zoom;
@@ -150,7 +150,7 @@ h1 {
 }
 
 #top-picture-bg {
-    background: url(../images/pexels-jaroslav-nymburský-687811.jpeg);
+    background: url(../images/controller-home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -179,7 +179,7 @@ h1 {
 }
 
 #center-picture-bg {
-    background: url(../images/pexels-mikhail-nilov-7886852.jpeg);
+    background: url(../images/paying-mk-home.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -208,7 +208,7 @@ h1 {
 }
 
 #bottom-picture-bg {
-    background: url(../images/pexels-rodnae-productions-7915276.jpeg);
+    background: url(../images/keyboard.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -274,7 +274,7 @@ h1 {
 }
 
 #event-one {
-    background-image: url(../images/wp2619610-counter-strike-16-hd-wallpapers.jpg);
+    background-image: url(../images/counter-strike.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -283,7 +283,7 @@ h1 {
 }
 
 #event-two {
-    background-image: url(../images/uwp2027262.jpeg);
+    background-image: url(../images/lol.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -292,7 +292,7 @@ h1 {
 }
 
 #event-three {
-    background: url(../images/wp5936642-warzone-wallpapers.jpg);
+    background: url(../images/warzone.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -301,7 +301,7 @@ h1 {
 }
 
 #event-four {
-    background-image: url(../images/uwp1639915.jpeg);
+    background-image: url(../images/mk.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -310,7 +310,7 @@ h1 {
 }
 
 #event-five {
-    background-image: url(../images/628496.jpg);
+    background-image: url(../images/rise-of-nations.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
