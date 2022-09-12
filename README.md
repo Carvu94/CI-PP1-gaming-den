@@ -304,7 +304,7 @@ All content was written by developer.
 
 - Image for Rise of Nations event was taken from [Alpha Coders](https://alphacoders.com/). 
 
-- Image for Counter Strike 1.6 event was taken from [Wallpaper Cave](https://wallpapercave.com/). 
+- Image for Counter Strike 1.6 and Warzone event was taken from [Wallpaper Cave](https://wallpapercave.com/). 
 
 ## **Acknowledgments**
 
