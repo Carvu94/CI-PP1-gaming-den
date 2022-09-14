@@ -178,11 +178,33 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 # **Testing**
 
+## **W3 Validators**
+
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 links from validator here
 
 Testing was ongoing throughout entire build of project. I used Developer Tools while building to pinpoint and troubleshoot any issues as I went along. 
+
+## **Performance**
+
+For performance testing I used Web.dev
+
+**Homepage**
+
+![Homepage](/docs/homepage-test-lght.png)
+
+**Gallery**
+
+![Gallery](/docs/gallery-test.lght.png)
+
+**Join Us**
+
+![Join Us](/docs/join-us-lght.png)
+
+**Thank You Page**
+
+![Thank You](/docs/thank-you-page-lght.png)
 
 ## **Testing User Stories from User Experience (UX) Section**
 
