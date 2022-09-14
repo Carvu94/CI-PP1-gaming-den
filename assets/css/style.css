@@ -612,6 +612,7 @@ input[type=reset] {
 @media screen and (max-width: 434px) {
     #photos {
         margin-top: 125px;
+        margin-bottom: 20px;
     }
 
     .age {
@@ -621,5 +622,13 @@ input[type=reset] {
     .info {
         margin-left: 20px;
         margin-right: 20px;
+    }
+
+    #event-five {
+        margin-bottom: 20px;
+    }
+
+    #form {
+        margin-bottom: 20px;
     }
 }
