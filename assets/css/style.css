@@ -572,7 +572,7 @@ input[type=reset] {
     
     /* Gallery */
     #photos {
-        margin: 75px 10px 0 10px;
+        margin: 75px 10px 20px 10px;
         column-count: 2;
     }
 
@@ -605,27 +605,40 @@ input[type=reset] {
     .made-by {
         padding: 10px 10px 0 10px;
     }
+
+    #event-five {
+        margin-bottom: 20px;
+    }
+
+    #form {
+        margin-bottom: 20px;
+    }
 }
 
 /* For small screens from 434px wide and down */
 
 @media screen and (max-width: 434px) {
-    #photos {
-        margin-top: 125px;
-        margin-bottom: 20px;
-    }
-
-    .age {
-        font-size: small;
-    }
-
+    
+    /* About us */
     .info {
         margin-left: 20px;
         margin-right: 20px;
     }
 
+    /* Events */
     #event-five {
         margin-bottom: 20px;
+    }
+
+    /* Gallery */
+    #photos {
+        margin-top: 125px;
+        margin-bottom: 20px;
+    }
+
+    /* Join us */
+    .age {
+        font-size: small;
     }
 
     #form {
