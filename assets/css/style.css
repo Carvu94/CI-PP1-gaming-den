@@ -570,6 +570,11 @@ input[type=reset] {
         height: 400px;
     }
     
+    /* Events */
+    #event-five {
+        margin-bottom: 20px;
+    }
+
     /* Gallery */
     #photos {
         margin: 75px 10px 20px 10px;
@@ -592,6 +597,11 @@ input[type=reset] {
         font-size: small;
     }
 
+    /* Join us */
+    #form {
+        margin-bottom: 20px;
+    }
+
     /* Footer */
     footer {
         font-size: smaller;
@@ -606,13 +616,12 @@ input[type=reset] {
         padding: 10px 10px 0 10px;
     }
 
-    #event-five {
+    /* Thank you page */
+    .thanks-box {
+        height: 450px;
         margin-bottom: 20px;
     }
 
-    #form {
-        margin-bottom: 20px;
-    }
 }
 
 /* For small screens from 434px wide and down */
@@ -643,5 +652,15 @@ input[type=reset] {
 
     #form {
         margin-bottom: 20px;
+    }
+
+    /* Thank you page */
+    .thanks-box {
+        height: 600px;
+    }
+
+    h3 {
+        margin-left: 20px;
+        margin-right: 20px;
     }
 }
