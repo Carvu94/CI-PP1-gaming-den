@@ -617,4 +617,9 @@ input[type=reset] {
     .age {
         font-size: small;
     }
+
+    .info {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
 }
