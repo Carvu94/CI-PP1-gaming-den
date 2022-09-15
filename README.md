@@ -182,7 +182,41 @@ Google Dev Tools - To troubleshoot and test features, solve issues with responsi
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-links from validator here
+### **HTML Testing**
+
+**Homepage**
+
+![w3 Homepage](/docs/w3-homepage.png)
+
+**Gallery**
+
+![w3 Gallery](/docs/w3-gallery.png)
+
+**Join Us Page**
+
+![w3 Join Us](/docs/w3-join-us.png)
+
+**Thank You Page**
+
+![w3 Thank You](/docs/w3-thank-you.png)
+
+### **CSS Testing**
+
+**Homepage**
+
+![w3 CSS Homepage](/docs/w3-css-homepage.png)
+
+**Gallery**
+
+![w3 CSS Gallery](/docs/w3-css-gallery.png)
+
+**Join Us Page**
+
+![w3 CSS Join Us](/docs/w3-css-join-us.png)
+
+**Thank You Page**
+
+![w3 CSS Thank You](/docs/w3-css-thank-you.png)
 
 Testing was ongoing throughout entire build of project. I used Developer Tools while building to pinpoint and troubleshoot any issues as I went along. 
 
@@ -254,7 +288,19 @@ For performance testing I used Web.dev
 
     - The users would already be comfortable with the website layout and navigate to Gallery page. 
 
-## **Known Bugs**
+## **Solved Bugs**
+
+- Upon first w3 HTML testing I received following error:
+
+![w3](/docs/w3-join-us-error.png)
+
+- The error was fixed immediately
+
+- Upon first performance testing I received following results for Gallery page:
+
+![Bad Performance](/docs/bad-performance.png)
+
+- The performance was immediately improved by compressing and converting pictures
 
 # **Deployment**
 
