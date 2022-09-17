@@ -142,6 +142,10 @@ All images used were taken from free sources which is credited in the credits se
 
 ![Thank You](/docs/thank-you.png)
 
+## **Future Implementations**
+
+- Add Log In option where existing users would be able to see their profile, stats on different games/platforms, performance from previous events and badges obtained from events. 
+
 # **Technologies Used**
 
 ## **Languages Used**
@@ -186,9 +190,21 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 **Homepage**
 
+-After initial test I received following warning:
+
+![w3 Homepage Warning](/docs/w3-homepage-warning.png)
+
+-The issues was fixed and there are no more warnings.
+
 ![w3 Homepage](/docs/w3-homepage.png)
 
 **Gallery**
+
+- After initial test I received following warning:
+
+![w3 Gallery Warning](/docs/w3-gallery-warning.png)
+
+- The issue was fixed and there are no more warnings.
 
 ![w3 Gallery](/docs/w3-gallery.png)
 
@@ -238,7 +254,7 @@ For performance testing I used Web.dev
 
 **Thank You Page**
 
-![Thank You](/docs/thank-you-page-lght.png)
+![Thank You](/docs/thank-you-lght.png)
 
 ## **Testing User Stories from User Experience (UX) Section**
 
@@ -246,47 +262,47 @@ For performance testing I used Web.dev
 
 - As a First Time Visitor, I want to easily understand the main purpose of the site and how can I take a part.
 
-    - Upon entering the site, users have navigation bar to go to the page of their choice. 
+    - Verified that users upon entering the site, have navigation bar to go to the page of their choice. 
 
-    - As users are scrolling down the home page, they will understand the purpose of the site and organization.
+    - Verified that as users are scrolling down the home page, they will understand the purpose of the site and organization.
 
-    - By navigating to Join Us page, users will be able to join the organization and register for event. 
+    - Verified that by navigating to Join Us page, users will be able to join the organization and register for event. 
 
 - As a First Time Visitor, I want to be able to easily navigate the site to find the content.
 
-    - At the top of each page there is a navigation bar with links describing a page users will be taken to. 
+    - Verified that at the top of each page there is a navigation bar with links describing a page users will be taken to. 
 
-    - Navigation bar is always on the top of the screen so users do not feel trapped when reacing the bottom of the page. 
+    - Verified that navigation bar is always on the top of the screen so users do not feel trapped when reacing the bottom of the page. 
 
-    - After the form on Join Us page is submitted, user is taken to Thank You page which contains navigation bar. 
+    - Verified that after the form on Join Us page is submitted, user is taken to Thank You page which contains navigation bar. 
 
 - As a First Time Visitor, I want to find the social media links to determine how trusted Gaming Den is.
 
-    - The users can scroll to the bottom of any page to locate social media links in the footer as well as address, phone number and email address. 
+    - Verified that the users can scroll to the bottom of any page to locate social media links in the footer as well as address, phone number and email address. 
 
 ### **Returning Visitor Goals**
 
 - As a Returning Visitor, I want to find information about events. 
 
-    - When users reach the bottom of the home page, they can clearly see upcoming events. 
+    - Verified that when users reach the bottom of the home page, they can clearly see upcoming events. 
 
 - As a Returning Visitor, I want to register as a member.
 
-    - Users can join the organization and optionally register for an event by navigating to the Join Us page using navigation bar on top of the screen. 
+    - Verified that users can join the organization and optionally register for an event by navigating to the Join Us page using navigation bar on top of the screen. 
 
 - As a Returning Visitor, I want to register for an event.
 
-    - Users can register for an event using Join Us page to register as a member.
+    - Verified that users can register for an event using Join Us page to register as a member.
 
 ### **Frequent User Goals**
 
 - As a Frequent User, I want to see if there are any new events.
 
-    - The users would already be comfortable with the website layout and scroll down the home page to check for events. 
+    - Verified that the users would already be comfortable with the website layout and scroll down the home page to check for events. 
 
 - As a Frequent User, I want to see the pictures from past events in a gallery.
 
-    - The users would already be comfortable with the website layout and navigate to Gallery page. 
+    - Verified that the users would already be comfortable with the website layout and navigate to Gallery page. 
 
 ## **Solved Bugs**
 
@@ -325,7 +341,7 @@ The project was deployed to GitHub Pages using the following steps:
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps:
 
-1. Log in (or sign up) to GitHub
+1. Log in (or sign up) to GitHub.
 
 2. locate the GitHub Repository, CI-PP1-gaming-den.
 
@@ -353,7 +369,7 @@ To clone the CI-PP1-gaming-den repository:
 
 ## **Code**
 
-For inspiration and help with figuring out the code I used following resources
+For inspiration and help with figuring out the code I used following resources:
 
 [w3schools](https://www.w3schools.com/)
 
@@ -383,6 +399,10 @@ Special thanks to:
 - My girlfriend for feedback and support. 
 
 - My parents and work colleagues for support. 
+
+- Everyone who took a part at Code Institute September 2022 Hackathon, especially my team 50/50s for support and expanding my knowledge.
+
+- Slack community for reviewing my project and pointing out weak spots. 
 
 - My mentor for feedback and directing. 
 
