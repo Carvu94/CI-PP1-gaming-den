@@ -80,7 +80,7 @@ h1 {
 #hero-image {
     height: 600px;
     max-width: 100%;
-    background: url(../images/hero.jpg);
+    background: url(../images/hero.webp);
     background-size: cover;
 
     animation-name: hero-zoom;
@@ -150,7 +150,7 @@ h1 {
 }
 
 #top-picture-bg {
-    background: url(../images/controller-home.jpg);
+    background: url(../images/controller-home.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -179,7 +179,7 @@ h1 {
 }
 
 #center-picture-bg {
-    background: url(../images/paying-mk-home.jpg);
+    background: url(../images/paying-mk-home.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -208,7 +208,7 @@ h1 {
 }
 
 #bottom-picture-bg {
-    background: url(../images/keyboard.jpg);
+    background: url(../images/keyboard.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -443,7 +443,7 @@ input[type=reset] {
 .thanks-box {
     text-align: center;
     align-items: center;
-    background-image: url(../images/controller.jpg);
+    background-image: url(../images/controller.webp);
     background-size: cover;
     background-position: center;
     height: 600px;
