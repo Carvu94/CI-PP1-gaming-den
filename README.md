@@ -194,7 +194,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ![w3 Homepage Warning](/docs/w3-homepage-warning.png)
 
--The issues was fixed and there are no more warnings.
+-The issue was fixed and there are no more warnings.
 
 ![w3 Homepage](/docs/w3-homepage.png)
 
@@ -316,7 +316,13 @@ For performance testing I used Web.dev
 
 ![Bad Performance](/docs/bad-performance.png)
 
-- The performance was immediately improved by compressing and converting pictures
+- The performance was immediately improved by compressing and converting pictures.
+
+- Upon first performance testing I received following results for Thank you page:
+
+![Thank You Page BP](/docs/thank-you-page-bad-lght.png)
+
+- The performace wa immediately improved by compressing and converting pictures. 
 
 # **Deployment**
 
@@ -400,7 +406,7 @@ Special thanks to:
 
 - My parents and work colleagues for support. 
 
-- Everyone who took a part at Code Institute September 2022 Hackathon, especially my team 50/50s for support and expanding my knowledge.
+- Everyone who took a part at Code Institute September 2022 Hackathon, especially my team 50/50s for support, motivation and expanding my knowledge.
 
 - Slack community for reviewing my project and pointing out weak spots. 
 
